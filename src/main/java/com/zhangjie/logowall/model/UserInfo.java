@@ -5,6 +5,7 @@ public class UserInfo {
 	private Long id;
 	private String name;
 	private String nickName;
+	private String password;
 	
 	public Long getId() {
 		return id;
