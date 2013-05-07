@@ -3,6 +3,7 @@ package com.zhangjie.logowall.model;
 public class UserInfo {
 
 	private Long id;
+	private String name;
 	private String nickName;
 	
 	public Long getId() {
