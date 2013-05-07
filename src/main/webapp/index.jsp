@@ -46,20 +46,20 @@
         </div>
         <div class="logo">
           <div class="row">
-            <div class="span2"><a class="sina-logo" href="http://www.sina.com.cn"><img src="logo/sina_banner.png" class="img-polaroid"></a></div>
-            <div class="span2"><a class="sina-logo" href="http://www.jd.com.cn"><img src="logo/jd_banner.png" class="img-polaroid"></a></div>
-            <div class="span2"><a class="sohu-logo" href="http://tv.sohu.com"><img src="logo/sohutv_banner.png" class="img-polaroid"></a></div>
-            <div class="span2"><a class="sohu-logo" href="http://www.sohu.com"><img src="logo/sohu_banner.png" class="img-polaroid"></a></div>
-            <div class="span2"><a class="sohu-logo" href="http://www.baidu.com"><img src="logo/baidu_banner.png" class="img-polaroid"></a></div>
-            <div class="span2"><a class="sohu-logo" href="http://www.sogou.com"><img src="logo/sogou_banner.png" class="img-polaroid"></a></div>
+            <div class="span2"><a href="http://www.sina.com.cn"><img src="logo/sina_banner.png" class="img-polaroid"></a></div>
+            <div class="span2"><a href="http://www.jd.com.cn"><img src="logo/jd_banner.png" class="img-polaroid"></a></div>
+            <div class="span2"><a href="http://tv.sohu.com"><img src="logo/sohutv_banner.png" class="img-polaroid"></a></div>
+            <div class="span2"><a href="http://www.sohu.com"><img src="logo/sohu_banner.png" class="img-polaroid"></a></div>
+            <div class="span2"><a href="http://www.baidu.com"><img src="logo/baidu_banner.png" class="img-polaroid"></a></div>
+            <div class="span2"><a href="http://www.sogou.com"><img src="logo/sogou_banner.png" class="img-polaroid"></a></div>
           </div>
           <div class="row">
-            <div class="span2"><a class="sina-logo" href="http://www.douban.com.cn"><img src="logo/douban_banner.png" class="img-polaroid"></a></div>
-            <div class="span2"><a class="sina-logo" href="http://www.taobao.com.cn"><img src="logo/taobao_banner.png" class="img-polaroid"></a></div>
-            <div class="span2"><a class="sohu-logo" href="http://weibo.com"><img src="logo/weibo_banner.png" class="img-polaroid"></a></div>
-            <div class="span2"><a class="sohu-logo" href="http://github.com"><img src="logo/github_banner.png" class="img-polaroid"></a></div>
-            <div class="span2"><a class="sohu-logo" href="http://www.huxiu.com/"><img src="logo/huxiu_banner.png" class="img-polaroid"></a></div>
-            <div class="span2"><a class="sohu-logo" href="http://www.renren.com"><img src="logo/renren_banner.png" class="img-polaroid"></a></div>
+            <div class="span2"><a href="http://www.douban.com.cn"><img src="logo/douban_banner.png" class="img-polaroid"></a></div>
+            <div class="span2"><a href="http://www.taobao.com.cn"><img src="logo/taobao_banner.png" class="img-polaroid"></a></div>
+            <div class="span2"><a href="http://weibo.com"><img src="logo/weibo_banner.png" class="img-polaroid"></a></div>
+            <div class="span2"><a href="http://github.com"><img src="logo/github_banner.png" class="img-polaroid"></a></div>
+            <div class="span2"><a href="http://www.huxiu.com/"><img src="logo/huxiu_banner.png" class="img-polaroid"></a></div>
+            <div class="span2"><a href="http://www.renren.com"><img src="logo/renren_banner.png" class="img-polaroid"></a></div>
           </div>
         </div>
       </div>
